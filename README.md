@@ -1,3 +1,6 @@
+https://www.researchgate.net/figure/Multi-line-LiDAR-based-SLAM-system-structure-diagram_fig1_369950490
+https://www.researchgate.net/figure/The-LiDAR-data-preprocessing-includes-three-parts-the-keyframe-selection-a-the_fig3_351731857
+
 # SLAM with Lidar Scans
 
 This repository demonstrates how to implement the Simultaneous Localization And Mapping (SLAM) algorithm using a series of lidar scans. The primary goal is to build an accurate map of an environment and retrieve the trajectory of a mobile robot.
