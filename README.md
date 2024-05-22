@@ -158,4 +158,8 @@ For any questions or inquiries, please contact:
 
 ---
 
+## References:
+MATLAB
+Research papers(present in the repository)
+
 Thank you for using my SLAM with Lidar Scans project! I hope it helps you in your robotics and mapping endeavors.
