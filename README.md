@@ -158,9 +158,9 @@ For any questions or inquiries, please contact:
 ---
 
 ## References:
-MATLAB
-Research papers(present in the repository)
-https://www.researchgate.net/figure/Multi-line-LiDAR-based-SLAM-system-structure-diagram_fig1_369950490
-https://www.researchgate.net/figure/The-LiDAR-data-preprocessing-includes-three-parts-the-keyframe-selection-a-the_fig3_351731857
+- MATLAB
+- Research papers(present in the repository)
+- https://www.researchgate.net/figure/Multi-line-LiDAR-based-SLAM-system-structure-diagram_fig1_369950490
+- https://www.researchgate.net/figure/The-LiDAR-data-preprocessing-includes-three-parts-the-keyframe-selection-a-the_fig3_351731857
 
 Thank you for using my SLAM with Lidar Scans project! I hope it helps you in your robotics and mapping endeavors.
