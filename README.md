@@ -120,8 +120,8 @@ hold off;
 title('Occupancy Grid Map Built Using Lidar SLAM');
 ```
 
-### Run exploringscansvariable.m
-This was created to compare every Lidar scan output and find pattern, for basic analysis. A video is created(in the all 71-plots video folder) for better analysis. Note that this is done because difference between 2 scans cannot be drastic and so, are comparable.
+### Run Exploringscansvariable.m
+This was created to compare every Lidar scan output and find pattern, for basic analysis. A video is created(in the all 71 plot video folder) for better analysis. Note that this is done because difference between 2 scans cannot be drastic and so, are comparable.
 
 
 ## Features
