@@ -157,7 +157,7 @@ This project is licensed under the Apache-2.0 License. See the `LICENSE` file fo
 For any questions or inquiries, please contact:
 
 - Mail: [MV.Chirag@iiitb.ac.in](mailto:MV.Chirag@iiitb.ac.in)
-- GitHub: [ChiragMV](https://github.com/ChiragMV)
+- GitHub: [ChiragMV](https://github.com/MChiragV)
 
 ---
 
